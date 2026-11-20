@@ -1,0 +1,3287 @@
+{
+  "metadata": {
+    "title": "초등 11개 교과 표준 수행동사 및 개념기반 탐구·독서·정보활용 연계 데이터베이스",
+    "version": "2026.1.0",
+    "curriculumRevision": "2022 개정 초등 교육과정",
+    "totalRawItems": 576,
+    "totalStandardVerbs": 113,
+    "totalStrategies": 29
+  },
+  "inquiryPhases": {
+    "1단계": {
+      "phase": "1단계",
+      "phaseName": "1단계: 관계맺기 (Engage)",
+      "corePurpose": "호기심 유발 및 학생 삶/배경지식 연결",
+      "uniqueVerbCount": 24,
+      "totalFrequency": 85,
+      "topVerbs": "탐색하기(27), 인식하기(7), 생각하기(6), 놀이하기(5), 반응하기(3)",
+      "recommendedStrategies": "도발적 자극(Provocation), See-Think-Wonder, Chalk Talk, K-W-L-S"
+    },
+    "2단계": {
+      "phase": "2단계",
+      "phaseName": "2단계: 집중하기 (Focus)",
+      "corePurpose": "탐구 초점 명료화, 개념 속성 정의, 질문 구체화",
+      "uniqueVerbCount": 8,
+      "totalFrequency": 24,
+      "topVerbs": "설계하기(7), 선택하기(5), 식별하기(4), 계획하기(2), 구별하기(2)",
+      "recommendedStrategies": "개념 획득 모델, 프레이어 모델(Frayer Model), QFT(질문생성기법), 개념 카드 소팅"
+    },
+    "3단계": {
+      "phase": "3단계",
+      "phaseName": "3단계: 조사하기 (Investigate)",
+      "corePurpose": "다양한 텍스트·데이터 탐색, 사실적 증거 수집",
+      "uniqueVerbCount": 15,
+      "totalFrequency": 98,
+      "topVerbs": "탐구하기(18), 읽기(18), 조사하기(17), 듣기(8), 수집하기(8)",
+      "recommendedStrategies": "Big6 정보탐색, SQ3R, 직소(Jigsaw) 협동독서, 다중 사례 연구, 출처 추적"
+    },
+    "4단계": {
+      "phase": "4단계",
+      "phaseName": "4단계: 조직하기 (Organize)",
+      "corePurpose": "수집 데이터 범주화, 인과관계 및 패턴 구조화",
+      "uniqueVerbCount": 12,
+      "totalFrequency": 84,
+      "topVerbs": "파악하기(28), 분석하기(11), 비교하기(10), 이해하기(7), 계산하기(7)",
+      "recommendedStrategies": "개념도(Concept Map), C-E-C(연결·확장·도전), 벤다이어그램, 인과관계 사슬망, PMI"
+    },
+    "5단계": {
+      "phase": "5단계",
+      "phaseName": "5단계: 일반화하기 (Generalize)",
+      "corePurpose": "개념 간의 관계 도출, 보편적 일반화 진술 형성",
+      "uniqueVerbCount": 8,
+      "totalFrequency": 40,
+      "topVerbs": "설명하기(16), 해석하기(6), 추론하기(6), 도출하기(4), 요약하기(3)",
+      "recommendedStrategies": "귀납적 일반화 유도(Erickson Stems), 헤드라인(Headlines), 문·구·단(S-P-W) 루틴"
+    },
+    "6단계": {
+      "phase": "6단계",
+      "phaseName": "6단계: 전이하기 (Transfer)",
+      "corePurpose": "일반화된 개념 이해를 실생활 문제 및 새 맥락에 적용",
+      "uniqueVerbCount": 32,
+      "totalFrequency": 188,
+      "topVerbs": "표현하기(31), 활용하기(26), 활동하기(15), 쓰기(15), 문제해결하기(11)",
+      "recommendedStrategies": "GRASPS 참과제, 유추적 전이(Analogical Transfer), 행동 실천 프로젝트(Action), 4칸 문제해결"
+    },
+    "7단계": {
+      "phase": "7단계",
+      "phaseName": "7단계: 성찰하기 (Reflect)",
+      "corePurpose": "사고 변화 메타인지 성찰 및 후속 탐구 연계",
+      "uniqueVerbCount": 14,
+      "totalFrequency": 57,
+      "topVerbs": "소통하기(10), 점검하기(10), 공유하기(8), 고려하기(8), 평가하기(6)",
+      "recommendedStrategies": "예전에는-지금은(I used to think...), 3-2-1 다리놓기, 나침반(Compass Points), 배움 여정 지도"
+    }
+  },
+  "processSkills": {
+    "표현하기": {
+      "rank": 1,
+      "verb": "표현하기",
+      "subjectCount": 8,
+      "totalFrequency": 31,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "새로운 산출물 구현",
+      "recommendedStrategies": [
+        "미니북 제작",
+        "스케치 노트",
+        "정보 스케치"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과",
+        "사회과",
+        "수학과",
+        "과학과",
+        "체육과",
+        "음악과",
+        "영어과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "국어과": 8,
+        "사회과": 3,
+        "수학과": 3,
+        "과학과": 4,
+        "체육과": 1,
+        "음악과": 4,
+        "영어과": 6,
+        "바슬즐(통합)": 2
+      }
+    },
+    "탐색하기": {
+      "rank": 2,
+      "verb": "탐색하기",
+      "subjectCount": 8,
+      "totalFrequency": 27,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "초기 소재 및 주변 탐색",
+      "recommendedStrategies": [
+        "KWLS",
+        "질문 그물망"
+      ],
+      "recommendedInfoStage": "2단계(탐색전략)",
+      "subjects": [
+        "국어과",
+        "도덕과",
+        "사회과",
+        "실과/정보과",
+        "체육과",
+        "음악과",
+        "미술과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1,
+        "도덕과": 7,
+        "사회과": 2,
+        "실과/정보과": 8,
+        "체육과": 1,
+        "음악과": 1,
+        "미술과": 3,
+        "바슬즐(통합)": 4
+      }
+    },
+    "활용하기": {
+      "rank": 3,
+      "verb": "활용하기",
+      "subjectCount": 8,
+      "totalFrequency": 26,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "새 맥락에 지식 적용",
+      "recommendedStrategies": [
+        "GRASPS 참과제",
+        "유추적 전이"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과",
+        "사회과",
+        "과학과",
+        "체육과",
+        "음악과",
+        "미술과",
+        "영어과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "국어과": 5,
+        "사회과": 4,
+        "과학과": 4,
+        "체육과": 2,
+        "음악과": 1,
+        "미술과": 4,
+        "영어과": 4,
+        "바슬즐(통합)": 2
+      }
+    },
+    "설명하기": {
+      "rank": 4,
+      "verb": "설명하기",
+      "subjectCount": 7,
+      "totalFrequency": 16,
+      "inquiryPhase": "5단계",
+      "phaseEnglish": "Generalize",
+      "phaseCharacter": "원리 및 인과 서술",
+      "recommendedStrategies": [
+        "말풍선 설명",
+        "핵심 한 장 카드",
+        "토큰 대화"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "도덕과",
+        "수학과",
+        "과학과",
+        "실과/정보과",
+        "음악과",
+        "미술과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "도덕과": 3,
+        "수학과": 4,
+        "과학과": 5,
+        "실과/정보과": 1,
+        "음악과": 1,
+        "미술과": 1,
+        "바슬즐(통합)": 1
+      }
+    },
+    "소통하기": {
+      "rank": 5,
+      "verb": "소통하기",
+      "subjectCount": 6,
+      "totalFrequency": 10,
+      "inquiryPhase": "7단계",
+      "phaseEnglish": "Reflect",
+      "phaseCharacter": "성찰 공유 및 상호작용",
+      "recommendedStrategies": [
+        "띵페세(Think-Pair-Share)",
+        "토큰 대화"
+      ],
+      "recommendedInfoStage": "6단계(평가·성찰)",
+      "subjects": [
+        "국어과",
+        "도덕과",
+        "과학과",
+        "음악과",
+        "영어과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "국어과": 2,
+        "도덕과": 1,
+        "과학과": 1,
+        "음악과": 2,
+        "영어과": 2,
+        "바슬즐(통합)": 2
+      }
+    },
+    "제작하기": {
+      "rank": 6,
+      "verb": "제작하기",
+      "subjectCount": 6,
+      "totalFrequency": 9,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "메이커 및 실물 제작",
+      "recommendedStrategies": [
+        "미니북 제작",
+        "프로젝트 보드",
+        "창작물"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과",
+        "수학과",
+        "실과/정보과",
+        "음악과",
+        "미술과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "국어과": 2,
+        "수학과": 1,
+        "실과/정보과": 3,
+        "음악과": 1,
+        "미술과": 1,
+        "바슬즐(통합)": 1
+      }
+    },
+    "파악하기": {
+      "rank": 7,
+      "verb": "파악하기",
+      "subjectCount": 5,
+      "totalFrequency": 28,
+      "inquiryPhase": "4단계",
+      "phaseEnglish": "Organize",
+      "phaseCharacter": "맥락 및 핵심 파악",
+      "recommendedStrategies": [
+        "사슬 그리기",
+        "SQ3R",
+        "스케치 노트"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "국어과",
+        "사회과",
+        "실과/정보과",
+        "체육과",
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 9,
+        "사회과": 3,
+        "실과/정보과": 2,
+        "체육과": 10,
+        "영어과": 4
+      }
+    },
+    "문제해결하기": {
+      "rank": 8,
+      "verb": "문제해결하기",
+      "subjectCount": 5,
+      "totalFrequency": 11,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "실제 상황 문제 해결",
+      "recommendedStrategies": [
+        "4칸 문제해결",
+        "GRASPS 참과제"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과",
+        "사회과",
+        "수학과",
+        "과학과",
+        "실과/정보과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 2,
+        "사회과": 3,
+        "수학과": 4,
+        "과학과": 1,
+        "실과/정보과": 1
+      }
+    },
+    "생각하기": {
+      "rank": 9,
+      "verb": "생각하기",
+      "subjectCount": 5,
+      "totalFrequency": 6,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "선수지식 상기 및 착상",
+      "recommendedStrategies": [
+        "라면 대화(만약~라면?)",
+        "브레인라이팅"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "국어과",
+        "도덕과",
+        "음악과",
+        "미술과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "국어과": 2,
+        "도덕과": 1,
+        "음악과": 1,
+        "미술과": 1,
+        "바슬즐(통합)": 1
+      }
+    },
+    "참여하기": {
+      "rank": 10,
+      "verb": "참여하기",
+      "subjectCount": 5,
+      "totalFrequency": 5,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "공동체 실천 및 연대",
+      "recommendedStrategies": [
+        "월드카페",
+        "아하 대화",
+        "캠페인"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과",
+        "사회과",
+        "실과/정보과",
+        "미술과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1,
+        "사회과": 1,
+        "실과/정보과": 1,
+        "미술과": 1,
+        "바슬즐(통합)": 1
+      }
+    },
+    "탐구하기": {
+      "rank": 11,
+      "verb": "탐구하기",
+      "subjectCount": 4,
+      "totalFrequency": 18,
+      "inquiryPhase": "3단계",
+      "phaseEnglish": "Investigate",
+      "phaseCharacter": "체계적 조사 및 실험",
+      "recommendedStrategies": [
+        "직소(Jigsaw) 협동 탐구",
+        "실험 관찰"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "도덕과",
+        "사회과",
+        "수학과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "도덕과": 1,
+        "사회과": 4,
+        "수학과": 10,
+        "바슬즐(통합)": 3
+      }
+    },
+    "조사하기": {
+      "rank": 12,
+      "verb": "조사하기",
+      "subjectCount": 4,
+      "totalFrequency": 17,
+      "inquiryPhase": "3단계",
+      "phaseEnglish": "Investigate",
+      "phaseCharacter": "자료 및 데이터 탐색",
+      "recommendedStrategies": [
+        "Big6 정보탐색",
+        "출처 추적",
+        "SQ3R"
+      ],
+      "recommendedInfoStage": "3단계(소재파악·접근)",
+      "subjects": [
+        "도덕과",
+        "사회과",
+        "과학과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "도덕과": 3,
+        "사회과": 11,
+        "과학과": 1,
+        "바슬즐(통합)": 2
+      }
+    },
+    "활동하기": {
+      "rank": 13,
+      "verb": "활동하기",
+      "subjectCount": 4,
+      "totalFrequency": 15,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "실천적 과제 수행",
+      "recommendedStrategies": [
+        "행동 실천 프로젝트",
+        "역할극"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "실과/정보과",
+        "체육과",
+        "음악과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "실과/정보과": 5,
+        "체육과": 3,
+        "음악과": 4,
+        "바슬즐(통합)": 3
+      }
+    },
+    "분석하기": {
+      "rank": 14,
+      "verb": "분석하기",
+      "subjectCount": 4,
+      "totalFrequency": 11,
+      "inquiryPhase": "4단계",
+      "phaseEnglish": "Organize",
+      "phaseCharacter": "요소 분해 및 심층 파악",
+      "recommendedStrategies": [
+        "PMI",
+        "질문 해부 전략",
+        "Y차트"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "국어과",
+        "사회과",
+        "과학과",
+        "미술과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 2,
+        "사회과": 5,
+        "과학과": 3,
+        "미술과": 1
+      }
+    },
+    "비교하기": {
+      "rank": 15,
+      "verb": "비교하기",
+      "subjectCount": 4,
+      "totalFrequency": 10,
+      "inquiryPhase": "4단계",
+      "phaseEnglish": "Organize",
+      "phaseCharacter": "공통점과 차이점 대조",
+      "recommendedStrategies": [
+        "벤다이어그램",
+        "비교 매트릭스"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "국어과",
+        "사회과",
+        "수학과",
+        "과학과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 3,
+        "사회과": 2,
+        "수학과": 2,
+        "과학과": 3
+      }
+    },
+    "공유하기": {
+      "rank": 16,
+      "verb": "공유하기",
+      "subjectCount": 4,
+      "totalFrequency": 8,
+      "inquiryPhase": "7단계",
+      "phaseEnglish": "Reflect",
+      "phaseCharacter": "배움 나눔 및 환류",
+      "recommendedStrategies": [
+        "띵페세",
+        "브레인라이팅",
+        "의견벽"
+      ],
+      "recommendedInfoStage": "6단계(평가·성찰)",
+      "subjects": [
+        "국어과",
+        "과학과",
+        "실과/정보과",
+        "미술과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 2,
+        "과학과": 4,
+        "실과/정보과": 1,
+        "미술과": 1
+      }
+    },
+    "적용하기": {
+      "rank": 17,
+      "verb": "적용하기",
+      "subjectCount": 4,
+      "totalFrequency": 7,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "타 영역/실생활 전이",
+      "recommendedStrategies": [
+        "유추적 전이",
+        "행동 실천 프로젝트"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "과학과",
+        "실과/정보과",
+        "체육과",
+        "미술과"
+      ],
+      "subjectFrequencies": {
+        "과학과": 4,
+        "실과/정보과": 1,
+        "체육과": 1,
+        "미술과": 1
+      }
+    },
+    "해석하기": {
+      "rank": 18,
+      "verb": "해석하기",
+      "subjectCount": 4,
+      "totalFrequency": 6,
+      "inquiryPhase": "5단계",
+      "phaseEnglish": "Generalize",
+      "phaseCharacter": "자료 및 현상 의미화",
+      "recommendedStrategies": [
+        "이야기별 그리기",
+        "관점 분석"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "사회과",
+        "수학과",
+        "과학과",
+        "미술과"
+      ],
+      "subjectFrequencies": {
+        "사회과": 1,
+        "수학과": 1,
+        "과학과": 2,
+        "미술과": 2
+      }
+    },
+    "확인하기": {
+      "rank": 19,
+      "verb": "확인하기",
+      "subjectCount": 4,
+      "totalFrequency": 6,
+      "inquiryPhase": "3단계",
+      "phaseEnglish": "Investigate",
+      "phaseCharacter": "사실 확인 및 검증",
+      "recommendedStrategies": [
+        "출처 추적",
+        "팩트체크"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "국어과",
+        "사회과",
+        "실과/정보과",
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 2,
+        "사회과": 2,
+        "실과/정보과": 1,
+        "영어과": 1
+      }
+    },
+    "관찰하기": {
+      "rank": 20,
+      "verb": "관찰하기",
+      "subjectCount": 4,
+      "totalFrequency": 5,
+      "inquiryPhase": "3단계",
+      "phaseEnglish": "Investigate",
+      "phaseCharacter": "현상 및 대상 정밀 관찰",
+      "recommendedStrategies": [
+        "관찰 일지",
+        "사실 수집 카드"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "국어과",
+        "도덕과",
+        "사회과",
+        "과학과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 2,
+        "도덕과": 1,
+        "사회과": 1,
+        "과학과": 1
+      }
+    },
+    "읽기": {
+      "rank": 21,
+      "verb": "읽기",
+      "subjectCount": 3,
+      "totalFrequency": 18,
+      "inquiryPhase": "3단계",
+      "phaseEnglish": "Investigate",
+      "phaseCharacter": "텍스트 심층 독해",
+      "recommendedStrategies": [
+        "SQ3R",
+        "문맥 단서 추론"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "국어과",
+        "수학과",
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 10,
+        "수학과": 1,
+        "영어과": 7
+      }
+    },
+    "쓰기": {
+      "rank": 22,
+      "verb": "쓰기",
+      "subjectCount": 3,
+      "totalFrequency": 15,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "글 및 제안서 작성",
+      "recommendedStrategies": [
+        "제안서 쓰기",
+        "주장하는 글",
+        "캠페인"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과",
+        "수학과",
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 6,
+        "수학과": 1,
+        "영어과": 8
+      }
+    },
+    "점검하기": {
+      "rank": 23,
+      "verb": "점검하기",
+      "subjectCount": 3,
+      "totalFrequency": 10,
+      "inquiryPhase": "7단계",
+      "phaseEnglish": "Reflect",
+      "phaseCharacter": "과정 및 결과 모니터링",
+      "recommendedStrategies": [
+        "자기점검 체크리스트",
+        "예전에는-지금은"
+      ],
+      "recommendedInfoStage": "6단계(평가·성찰)",
+      "subjects": [
+        "국어과",
+        "도덕과",
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 6,
+        "도덕과": 2,
+        "영어과": 2
+      }
+    },
+    "듣기": {
+      "rank": 24,
+      "verb": "듣기",
+      "subjectCount": 3,
+      "totalFrequency": 8,
+      "inquiryPhase": "3단계",
+      "phaseEnglish": "Investigate",
+      "phaseCharacter": "구어 정보 청취 및 이해",
+      "recommendedStrategies": [
+        "경청 기록지",
+        "음성자료 분석"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "국어과",
+        "음악과",
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1,
+        "음악과": 2,
+        "영어과": 5
+      }
+    },
+    "수집하기": {
+      "rank": 25,
+      "verb": "수집하기",
+      "subjectCount": 3,
+      "totalFrequency": 8,
+      "inquiryPhase": "3단계",
+      "phaseEnglish": "Investigate",
+      "phaseCharacter": "정보원 및 사례 수집",
+      "recommendedStrategies": [
+        "정보 장바구니",
+        "발췌록 작성"
+      ],
+      "recommendedInfoStage": "3단계(소재파악·접근)",
+      "subjects": [
+        "사회과",
+        "수학과",
+        "과학과"
+      ],
+      "subjectFrequencies": {
+        "사회과": 2,
+        "수학과": 2,
+        "과학과": 4
+      }
+    },
+    "살펴보기": {
+      "rank": 26,
+      "verb": "살펴보기",
+      "subjectCount": 3,
+      "totalFrequency": 7,
+      "inquiryPhase": "3단계",
+      "phaseEnglish": "Investigate",
+      "phaseCharacter": "전반적 훑어보기",
+      "recommendedStrategies": [
+        "SQ3R(Survey)",
+        "훑어읽기"
+      ],
+      "recommendedInfoStage": "3단계(소재파악·접근)",
+      "subjects": [
+        "도덕과",
+        "실과/정보과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "도덕과": 3,
+        "실과/정보과": 2,
+        "바슬즐(통합)": 2
+      }
+    },
+    "이해하기": {
+      "rank": 27,
+      "verb": "이해하기",
+      "subjectCount": 3,
+      "totalFrequency": 7,
+      "inquiryPhase": "4단계",
+      "phaseEnglish": "Organize",
+      "phaseCharacter": "개념적 의미 파악",
+      "recommendedStrategies": [
+        "이야기별 그리기",
+        "사슬 그리기"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "국어과",
+        "체육과",
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 3,
+        "체육과": 1,
+        "영어과": 3
+      }
+    },
+    "인식하기": {
+      "rank": 28,
+      "verb": "인식하기",
+      "subjectCount": 3,
+      "totalFrequency": 7,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "문제 및 상황 인식",
+      "recommendedStrategies": [
+        "도발적 자극",
+        "질문 그물망"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "국어과",
+        "과학과",
+        "음악과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1,
+        "과학과": 5,
+        "음악과": 1
+      }
+    },
+    "구성하기": {
+      "rank": 29,
+      "verb": "구성하기",
+      "subjectCount": 3,
+      "totalFrequency": 6,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "새 모델/체계 구축",
+      "recommendedStrategies": [
+        "미니북 제작",
+        "융합 모델링"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과",
+        "사회과",
+        "체육과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 2,
+        "사회과": 3,
+        "체육과": 1
+      }
+    },
+    "나타내기": {
+      "rank": 30,
+      "verb": "나타내기",
+      "subjectCount": 3,
+      "totalFrequency": 6,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "시각적/조형적 표출",
+      "recommendedStrategies": [
+        "인포그래픽",
+        "시각 디자인"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "수학과",
+        "음악과",
+        "미술과"
+      ],
+      "subjectFrequencies": {
+        "수학과": 4,
+        "음악과": 1,
+        "미술과": 1
+      }
+    },
+    "사용하기": {
+      "rank": 31,
+      "verb": "사용하기",
+      "subjectCount": 3,
+      "totalFrequency": 6,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "도구 및 매체 실사용",
+      "recommendedStrategies": [
+        "도구 조작 실습"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과",
+        "수학과",
+        "과학과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 2,
+        "수학과": 1,
+        "과학과": 3
+      }
+    },
+    "추론하기": {
+      "rank": 32,
+      "verb": "추론하기",
+      "subjectCount": 3,
+      "totalFrequency": 6,
+      "inquiryPhase": "5단계",
+      "phaseEnglish": "Generalize",
+      "phaseCharacter": "논리적 법칙 유도",
+      "recommendedStrategies": [
+        "라면 대화",
+        "귀납적 일반화 유도"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "국어과",
+        "사회과",
+        "수학과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 2,
+        "사회과": 2,
+        "수학과": 2
+      }
+    },
+    "놀이하기": {
+      "rank": 33,
+      "verb": "놀이하기",
+      "subjectCount": 3,
+      "totalFrequency": 5,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "동기유발 및 신체활동",
+      "recommendedStrategies": [
+        "놀이 기반 탐색"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "국어과",
+        "음악과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1,
+        "음악과": 1,
+        "바슬즐(통합)": 3
+      }
+    },
+    "선택하기": {
+      "rank": 34,
+      "verb": "선택하기",
+      "subjectCount": 3,
+      "totalFrequency": 5,
+      "inquiryPhase": "2단계",
+      "phaseEnglish": "Focus",
+      "phaseCharacter": "탐구 주제/방향 선정",
+      "recommendedStrategies": [
+        "QFT(질문생성기법)",
+        "토큰 대화"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "국어과",
+        "도덕과",
+        "사회과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1,
+        "도덕과": 1,
+        "사회과": 3
+      }
+    },
+    "실천하기": {
+      "rank": 35,
+      "verb": "실천하기",
+      "subjectCount": 3,
+      "totalFrequency": 5,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "생활 속 행동 실천",
+      "recommendedStrategies": [
+        "행동 실천 프로젝트",
+        "생활 습관 점검"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과",
+        "실과/정보과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1,
+        "실과/정보과": 2,
+        "바슬즐(통합)": 2
+      }
+    },
+    "연결하기": {
+      "rank": 36,
+      "verb": "연결하기",
+      "subjectCount": 3,
+      "totalFrequency": 5,
+      "inquiryPhase": "4단계",
+      "phaseEnglish": "Organize",
+      "phaseCharacter": "개념 간 관계 잇기",
+      "recommendedStrategies": [
+        "사슬 그리기",
+        "생각 그물망",
+        "C-E-C 루틴"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "수학과",
+        "미술과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "수학과": 2,
+        "미술과": 2,
+        "바슬즐(통합)": 1
+      }
+    },
+    "분류하기": {
+      "rank": 37,
+      "verb": "분류하기",
+      "subjectCount": 3,
+      "totalFrequency": 4,
+      "inquiryPhase": "4단계",
+      "phaseEnglish": "Organize",
+      "phaseCharacter": "기준별 정보 구분",
+      "recommendedStrategies": [
+        "그래픽 조직자",
+        "벤다이어그램",
+        "의견벽"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "사회과",
+        "수학과",
+        "과학과"
+      ],
+      "subjectFrequencies": {
+        "사회과": 1,
+        "수학과": 2,
+        "과학과": 1
+      }
+    },
+    "찾기": {
+      "rank": 38,
+      "verb": "찾기",
+      "subjectCount": 3,
+      "totalFrequency": 4,
+      "inquiryPhase": "3단계",
+      "phaseEnglish": "Investigate",
+      "phaseCharacter": "정보 검색 및 발췌",
+      "recommendedStrategies": [
+        "도서관 서지 검색",
+        "키워드 불리언 탐색"
+      ],
+      "recommendedInfoStage": "3단계(소재파악·접근)",
+      "subjects": [
+        "도덕과",
+        "사회과",
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "도덕과": 2,
+        "사회과": 1,
+        "영어과": 1
+      }
+    },
+    "돌아보기": {
+      "rank": 39,
+      "verb": "돌아보기",
+      "subjectCount": 3,
+      "totalFrequency": 3,
+      "inquiryPhase": "7단계",
+      "phaseEnglish": "Reflect",
+      "phaseCharacter": "배움의 과정 성찰",
+      "recommendedStrategies": [
+        "나침반(Compass Points) 루틴"
+      ],
+      "recommendedInfoStage": "6단계(평가·성찰)",
+      "subjects": [
+        "음악과",
+        "미술과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "음악과": 1,
+        "미술과": 1,
+        "바슬즐(통합)": 1
+      }
+    },
+    "반응하기": {
+      "rank": 40,
+      "verb": "반응하기",
+      "subjectCount": 3,
+      "totalFrequency": 3,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "자극에 대한 정서적 감응",
+      "recommendedStrategies": [
+        "See-Think-Wonder",
+        "감상 나눔"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "국어과",
+        "음악과",
+        "미술과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1,
+        "음악과": 1,
+        "미술과": 1
+      }
+    },
+    "정리하기": {
+      "rank": 41,
+      "verb": "정리하기",
+      "subjectCount": 3,
+      "totalFrequency": 3,
+      "inquiryPhase": "4단계",
+      "phaseEnglish": "Organize",
+      "phaseCharacter": "정보 요약 및 정돈",
+      "recommendedStrategies": [
+        "스케치 노트",
+        "정보 스케치",
+        "프로젝트 보드"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과",
+        "수학과",
+        "과학과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1,
+        "수학과": 1,
+        "과학과": 1
+      }
+    },
+    "생성하기": {
+      "rank": 42,
+      "verb": "생성하기",
+      "subjectCount": 2,
+      "totalFrequency": 8,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "새로운 대안 창출",
+      "recommendedStrategies": [
+        "브레인라이팅(6-3-5)",
+        "질문 그물망"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과",
+        "사회과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 3,
+        "사회과": 5
+      }
+    },
+    "말하기": {
+      "rank": 43,
+      "verb": "말하기",
+      "subjectCount": 2,
+      "totalFrequency": 7,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "생각과 정보 구어 표현",
+      "recommendedStrategies": [
+        "띵페세",
+        "발표하기"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과",
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 3,
+        "영어과": 4
+      }
+    },
+    "설계하기": {
+      "rank": 44,
+      "verb": "설계하기",
+      "subjectCount": 2,
+      "totalFrequency": 7,
+      "inquiryPhase": "2단계",
+      "phaseEnglish": "Focus",
+      "phaseCharacter": "탐구·실험 설계",
+      "recommendedStrategies": [
+        "프로젝트 보드",
+        "4칸 문제해결"
+      ],
+      "recommendedInfoStage": "2단계(탐색전략)",
+      "subjects": [
+        "과학과",
+        "실과/정보과"
+      ],
+      "subjectFrequencies": {
+        "과학과": 5,
+        "실과/정보과": 2
+      }
+    },
+    "평가하기": {
+      "rank": 45,
+      "verb": "평가하기",
+      "subjectCount": 2,
+      "totalFrequency": 6,
+      "inquiryPhase": "7단계",
+      "phaseEnglish": "Reflect",
+      "phaseCharacter": "타당성 및 질적 판별",
+      "recommendedStrategies": [
+        "PMI",
+        "출처 추적",
+        "3-2-1 다리놓기"
+      ],
+      "recommendedInfoStage": "6단계(평가·성찰)",
+      "subjects": [
+        "국어과",
+        "사회과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 5,
+        "사회과": 1
+      }
+    },
+    "감상하기": {
+      "rank": 46,
+      "verb": "감상하기",
+      "subjectCount": 2,
+      "totalFrequency": 3,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "호기심 및 심미적 인식",
+      "recommendedStrategies": [
+        "Y차트 확장",
+        "See-Think-Wonder"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "국어과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "국어과": 2,
+        "바슬즐(통합)": 1
+      }
+    },
+    "경험하기": {
+      "rank": 47,
+      "verb": "경험하기",
+      "subjectCount": 2,
+      "totalFrequency": 3,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "직접/간접 경험 체득",
+      "recommendedStrategies": [
+        "도발적 자극",
+        "실물 탐색"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "실과/정보과",
+        "미술과"
+      ],
+      "subjectFrequencies": {
+        "실과/정보과": 2,
+        "미술과": 1
+      }
+    },
+    "묘사하기": {
+      "rank": 48,
+      "verb": "묘사하기",
+      "subjectCount": 2,
+      "totalFrequency": 3,
+      "inquiryPhase": "4단계",
+      "phaseEnglish": "Organize",
+      "phaseCharacter": "대상과 현상 상세 서술",
+      "recommendedStrategies": [
+        "CSI 루틴",
+        "상세 묘사 기록"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "음악과",
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "음악과": 1,
+        "영어과": 2
+      }
+    },
+    "바꾸기": {
+      "rank": 49,
+      "verb": "바꾸기",
+      "subjectCount": 2,
+      "totalFrequency": 3,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "관점 전환 및 변형",
+      "recommendedStrategies": [
+        "이야기 이어쓰기",
+        "관점 바꾸기"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "음악과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "음악과": 2,
+        "바슬즐(통합)": 1
+      }
+    },
+    "발견하기": {
+      "rank": 50,
+      "verb": "발견하기",
+      "subjectCount": 2,
+      "totalFrequency": 3,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "호기심 포착",
+      "recommendedStrategies": [
+        "See-Think-Wonder"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "음악과",
+        "미술과"
+      ],
+      "subjectFrequencies": {
+        "음악과": 1,
+        "미술과": 2
+      }
+    },
+    "발표하기": {
+      "rank": 51,
+      "verb": "발표하기",
+      "subjectCount": 2,
+      "totalFrequency": 3,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "청중 대상 브리핑",
+      "recommendedStrategies": [
+        "핵심 한 장 카드",
+        "스케치 발표"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "체육과",
+        "음악과"
+      ],
+      "subjectFrequencies": {
+        "체육과": 1,
+        "음악과": 2
+      }
+    },
+    "보기": {
+      "rank": 52,
+      "verb": "보기",
+      "subjectCount": 2,
+      "totalFrequency": 3,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "시각적 대상 관찰",
+      "recommendedStrategies": [
+        "See-Think-Wonder"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "미술과",
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "미술과": 1,
+        "영어과": 2
+      }
+    },
+    "상상하기": {
+      "rank": 53,
+      "verb": "상상하기",
+      "subjectCount": 2,
+      "totalFrequency": 3,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "아이디어 발상",
+      "recommendedStrategies": [
+        "라면 대화",
+        "Y차트 확장"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "국어과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1,
+        "바슬즐(통합)": 2
+      }
+    },
+    "소개하기": {
+      "rank": 54,
+      "verb": "소개하기",
+      "subjectCount": 2,
+      "totalFrequency": 3,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "타인 대상 안내 및 브리핑",
+      "recommendedStrategies": [
+        "핵심 한 장 카드",
+        "미니북"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과",
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1,
+        "영어과": 2
+      }
+    },
+    "예측하기": {
+      "rank": 55,
+      "verb": "예측하기",
+      "subjectCount": 2,
+      "totalFrequency": 3,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "가설 및 결과 추측",
+      "recommendedStrategies": [
+        "KWLS",
+        "예측하며 읽기"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "국어과",
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 2,
+        "영어과": 1
+      }
+    },
+    "추측하기": {
+      "rank": 56,
+      "verb": "추측하기",
+      "subjectCount": 2,
+      "totalFrequency": 3,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "사전 정보 기반 짐작",
+      "recommendedStrategies": [
+        "가설 설정",
+        "See-Think-Wonder"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "수학과",
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "수학과": 2,
+        "영어과": 1
+      }
+    },
+    "검색하기": {
+      "rank": 57,
+      "verb": "검색하기",
+      "subjectCount": 2,
+      "totalFrequency": 2,
+      "inquiryPhase": "3단계",
+      "phaseEnglish": "Investigate",
+      "phaseCharacter": "디지털 및 서지 검색",
+      "recommendedStrategies": [
+        "Big6 정보탐색",
+        "불리언 검색"
+      ],
+      "recommendedInfoStage": "3단계(소재파악·접근)",
+      "subjects": [
+        "국어과",
+        "실과/정보과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1,
+        "실과/정보과": 1
+      }
+    },
+    "계획하기": {
+      "rank": 58,
+      "verb": "계획하기",
+      "subjectCount": 2,
+      "totalFrequency": 2,
+      "inquiryPhase": "2단계",
+      "phaseEnglish": "Focus",
+      "phaseCharacter": "탐구 계획 수립",
+      "recommendedStrategies": [
+        "프로젝트 보드",
+        "탐색 계획서"
+      ],
+      "recommendedInfoStage": "2단계(탐색전략)",
+      "subjects": [
+        "도덕과",
+        "실과/정보과"
+      ],
+      "subjectFrequencies": {
+        "도덕과": 1,
+        "실과/정보과": 1
+      }
+    },
+    "구별하기": {
+      "rank": 59,
+      "verb": "구별하기",
+      "subjectCount": 2,
+      "totalFrequency": 2,
+      "inquiryPhase": "2단계",
+      "phaseEnglish": "Focus",
+      "phaseCharacter": "개념 간 경계 파악",
+      "recommendedStrategies": [
+        "벤다이어그램",
+        "프레이어 모델"
+      ],
+      "recommendedInfoStage": "2단계(탐색전략)",
+      "subjects": [
+        "국어과",
+        "음악과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1,
+        "음악과": 1
+      }
+    },
+    "질문하기": {
+      "rank": 60,
+      "verb": "질문하기",
+      "subjectCount": 2,
+      "totalFrequency": 2,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "탐구 질문 형성",
+      "recommendedStrategies": [
+        "KWLS",
+        "질문 그물망",
+        "질문 해부 전략"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "국어과",
+        "미술과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1,
+        "미술과": 1
+      }
+    },
+    "형성하기": {
+      "rank": 61,
+      "verb": "형성하기",
+      "subjectCount": 2,
+      "totalFrequency": 2,
+      "inquiryPhase": "5단계",
+      "phaseEnglish": "Generalize",
+      "phaseCharacter": "개념 및 가치 내면화",
+      "recommendedStrategies": [
+        "문·구·단 루틴",
+        "가치 정립"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "실과/정보과",
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "실과/정보과": 1,
+        "바슬즐(통합)": 1
+      }
+    },
+    "고려하기": {
+      "rank": 62,
+      "verb": "고려하기",
+      "subjectCount": 1,
+      "totalFrequency": 8,
+      "inquiryPhase": "7단계",
+      "phaseEnglish": "Reflect",
+      "phaseCharacter": "다각적 맥락 숙고",
+      "recommendedStrategies": [
+        "PMI",
+        "다관점 성찰"
+      ],
+      "recommendedInfoStage": "6단계(평가·성찰)",
+      "subjects": [
+        "국어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 8
+      }
+    },
+    "계산하기": {
+      "rank": 63,
+      "verb": "계산하기",
+      "subjectCount": 1,
+      "totalFrequency": 7,
+      "inquiryPhase": "4단계",
+      "phaseEnglish": "Organize",
+      "phaseCharacter": "수학적 연산 및 데이터 처리",
+      "recommendedStrategies": [
+        "수치 데이터 계산표"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "수학과"
+      ],
+      "subjectFrequencies": {
+        "수학과": 7
+      }
+    },
+    "시도하기": {
+      "rank": 64,
+      "verb": "시도하기",
+      "subjectCount": 1,
+      "totalFrequency": 6,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "새로운 도전 과제 실행",
+      "recommendedStrategies": [
+        "GRASPS 시나리오 실행"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "체육과"
+      ],
+      "subjectFrequencies": {
+        "체육과": 6
+      }
+    },
+    "도출하기": {
+      "rank": 65,
+      "verb": "도출하기",
+      "subjectCount": 1,
+      "totalFrequency": 4,
+      "inquiryPhase": "5단계",
+      "phaseEnglish": "Generalize",
+      "phaseCharacter": "결론 및 법칙 이끌어내기",
+      "recommendedStrategies": [
+        "헤드라인 루틴"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "과학과"
+      ],
+      "subjectFrequencies": {
+        "과학과": 4
+      }
+    },
+    "식별하기": {
+      "rank": 66,
+      "verb": "식별하기",
+      "subjectCount": 1,
+      "totalFrequency": 4,
+      "inquiryPhase": "2단계",
+      "phaseEnglish": "Focus",
+      "phaseCharacter": "개념 요소 및 특징 식별",
+      "recommendedStrategies": [
+        "프레이어 모델",
+        "개념 카드 소팅"
+      ],
+      "recommendedInfoStage": "2단계(탐색전략)",
+      "subjects": [
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "영어과": 4
+      }
+    },
+    "조정하기": {
+      "rank": 67,
+      "verb": "조정하기",
+      "subjectCount": 1,
+      "totalFrequency": 4,
+      "inquiryPhase": "7단계",
+      "phaseEnglish": "Reflect",
+      "phaseCharacter": "전략 및 협력 재조정",
+      "recommendedStrategies": [
+        "월드카페",
+        "아하 대화",
+        "네모퉁이 토론"
+      ],
+      "recommendedInfoStage": "6단계(평가·성찰)",
+      "subjects": [
+        "국어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 4
+      }
+    },
+    "조직하기": {
+      "rank": 68,
+      "verb": "조직하기",
+      "subjectCount": 1,
+      "totalFrequency": 4,
+      "inquiryPhase": "4단계",
+      "phaseEnglish": "Organize",
+      "phaseCharacter": "구조화 및 체계화",
+      "recommendedStrategies": [
+        "개념도(Concept Map)",
+        "그래픽 조직자"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 4
+      }
+    },
+    "요약하기": {
+      "rank": 69,
+      "verb": "요약하기",
+      "subjectCount": 1,
+      "totalFrequency": 3,
+      "inquiryPhase": "5단계",
+      "phaseEnglish": "Generalize",
+      "phaseCharacter": "핵심 아이디어 압축",
+      "recommendedStrategies": [
+        "헤드라인 루틴",
+        "문·구·단 루틴"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 3
+      }
+    },
+    "체험하기": {
+      "rank": 70,
+      "verb": "체험하기",
+      "subjectCount": 1,
+      "totalFrequency": 3,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "오감 기반 실감 체험",
+      "recommendedStrategies": [
+        "현장 체험학습",
+        "실물 조작"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "실과/정보과"
+      ],
+      "subjectFrequencies": {
+        "실과/정보과": 3
+      }
+    },
+    "구상하기": {
+      "rank": 71,
+      "verb": "구상하기",
+      "subjectCount": 1,
+      "totalFrequency": 2,
+      "inquiryPhase": "2단계",
+      "phaseEnglish": "Focus",
+      "phaseCharacter": "개념 및 설계 구상",
+      "recommendedStrategies": [
+        "QFT",
+        "아이디어 스케치"
+      ],
+      "recommendedInfoStage": "2단계(탐색전략)",
+      "subjects": [
+        "실과/정보과"
+      ],
+      "subjectFrequencies": {
+        "실과/정보과": 2
+      }
+    },
+    "그리기": {
+      "rank": 72,
+      "verb": "그리기",
+      "subjectCount": 1,
+      "totalFrequency": 2,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "시각적 드로잉 및 표현",
+      "recommendedStrategies": [
+        "스케치 노트",
+        "정보 스케치"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "수학과"
+      ],
+      "subjectFrequencies": {
+        "수학과": 2
+      }
+    },
+    "답하기": {
+      "rank": 73,
+      "verb": "답하기",
+      "subjectCount": 1,
+      "totalFrequency": 2,
+      "inquiryPhase": "5단계",
+      "phaseEnglish": "Generalize",
+      "phaseCharacter": "질문에 대한 답변 서술",
+      "recommendedStrategies": [
+        "토큰 대화",
+        "띵페세"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "영어과": 2
+      }
+    },
+    "묻기": {
+      "rank": 74,
+      "verb": "묻기",
+      "subjectCount": 1,
+      "totalFrequency": 2,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "질문 던지기",
+      "recommendedStrategies": [
+        "KWLS",
+        "QFT"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "영어과": 2
+      }
+    },
+    "준수하기": {
+      "rank": 75,
+      "verb": "준수하기",
+      "subjectCount": 1,
+      "totalFrequency": 2,
+      "inquiryPhase": "7단계",
+      "phaseEnglish": "Reflect",
+      "phaseCharacter": "규칙 및 윤리 준수",
+      "recommendedStrategies": [
+        "연구/정보윤리 체크리스트"
+      ],
+      "recommendedInfoStage": "6단계(평가·성찰)",
+      "subjects": [
+        "국어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 2
+      }
+    },
+    "지시하기": {
+      "rank": 76,
+      "verb": "지시하기",
+      "subjectCount": 1,
+      "totalFrequency": 2,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "안내 및 규칙 전달",
+      "recommendedStrategies": [
+        "역할 분담 및 가이드"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "영어과"
+      ],
+      "subjectFrequencies": {
+        "영어과": 2
+      }
+    },
+    "감지하기": {
+      "rank": 77,
+      "verb": "감지하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "자극 인지",
+      "recommendedStrategies": [
+        "See-Think-Wonder"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "음악과"
+      ],
+      "subjectFrequencies": {
+        "음악과": 1
+      }
+    },
+    "개선하기": {
+      "rank": 78,
+      "verb": "개선하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "7단계",
+      "phaseEnglish": "Reflect",
+      "phaseCharacter": "피드백 기반 보완",
+      "recommendedStrategies": [
+        "동료 피드백 및 수정 루틴"
+      ],
+      "recommendedInfoStage": "6단계(평가·성찰)",
+      "subjects": [
+        "미술과"
+      ],
+      "subjectFrequencies": {
+        "미술과": 1
+      }
+    },
+    "고안하기": {
+      "rank": 79,
+      "verb": "고안하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "새 아이디어 및 방안 고안",
+      "recommendedStrategies": [
+        "브레인라이팅",
+        "4칸 문제해결"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "도덕과"
+      ],
+      "subjectFrequencies": {
+        "도덕과": 1
+      }
+    },
+    "관계맺기": {
+      "rank": 80,
+      "verb": "관계맺기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "관계맺기",
+      "recommendedStrategies": [
+        "보·생·궁(See-Think-Wonder)",
+        "Chalk Talk",
+        "K-W-L"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "바슬즐(통합)": 1
+      }
+    },
+    "관련짓기": {
+      "rank": 81,
+      "verb": "관련짓기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "4단계",
+      "phaseEnglish": "Organize",
+      "phaseCharacter": "상호 연관성 규명",
+      "recommendedStrategies": [
+        "생각 그물망",
+        "인과관계 사슬망"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "미술과"
+      ],
+      "subjectFrequencies": {
+        "미술과": 1
+      }
+    },
+    "관리하기": {
+      "rank": 82,
+      "verb": "관리하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "자원 및 산출물 유지 관리",
+      "recommendedStrategies": [
+        "프로젝트 보드"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "바슬즐(통합)": 1
+      }
+    },
+    "교환하기": {
+      "rank": 83,
+      "verb": "교환하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "7단계",
+      "phaseEnglish": "Reflect",
+      "phaseCharacter": "의견 및 피드백 교환",
+      "recommendedStrategies": [
+        "월드카페",
+        "동료 평가"
+      ],
+      "recommendedInfoStage": "6단계(평가·성찰)",
+      "subjects": [
+        "국어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1
+      }
+    },
+    "구현하기": {
+      "rank": 84,
+      "verb": "구현하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "아이디어의 실제적 구현",
+      "recommendedStrategies": [
+        "메이커 활동",
+        "코딩/제작"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "바슬즐(통합)": 1
+      }
+    },
+    "권리누리기??": {
+      "rank": 85,
+      "verb": "권리누리기??",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "시민적 권리 실천",
+      "recommendedStrategies": [
+        "행동 실천 프로젝트"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "바슬즐(통합)": 1
+      }
+    },
+    "나열하기": {
+      "rank": 86,
+      "verb": "나열하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "4단계",
+      "phaseEnglish": "Organize",
+      "phaseCharacter": "순서적 목록화",
+      "recommendedStrategies": [
+        "그래픽 조직자",
+        "타임라인"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "사회과"
+      ],
+      "subjectFrequencies": {
+        "사회과": 1
+      }
+    },
+    "답사하기": {
+      "rank": 87,
+      "verb": "답사하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "3단계",
+      "phaseEnglish": "Investigate",
+      "phaseCharacter": "현장 답사 및 조사",
+      "recommendedStrategies": [
+        "현장 답사 일지",
+        "인터뷰"
+      ],
+      "recommendedInfoStage": "3단계(소재파악·접근)",
+      "subjects": [
+        "사회과"
+      ],
+      "subjectFrequencies": {
+        "사회과": 1
+      }
+    },
+    "대응하기": {
+      "rank": 88,
+      "verb": "대응하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "상황에 맞는 능동적 대처",
+      "recommendedStrategies": [
+        "역할극",
+        "시나리오 대응"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "바슬즐(통합)": 1
+      }
+    },
+    "대처하기": {
+      "rank": 89,
+      "verb": "대처하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "위기 및 문제 대처",
+      "recommendedStrategies": [
+        "안전 매뉴얼 제작",
+        "시뮬레이션"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "체육과"
+      ],
+      "subjectFrequencies": {
+        "체육과": 1
+      }
+    },
+    "모방하기": {
+      "rank": 90,
+      "verb": "모방하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "시범 관찰 후 따라하기",
+      "recommendedStrategies": [
+        "기본 동작 모델링"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "음악과"
+      ],
+      "subjectFrequencies": {
+        "음악과": 1
+      }
+    },
+    "바라보기": {
+      "rank": 91,
+      "verb": "바라보기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "관점 인식 및 관찰",
+      "recommendedStrategies": [
+        "See-Think-Wonder"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "도덕과"
+      ],
+      "subjectFrequencies": {
+        "도덕과": 1
+      }
+    },
+    "반영하기": {
+      "rank": 92,
+      "verb": "반영하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "7단계",
+      "phaseEnglish": "Reflect",
+      "phaseCharacter": "피드백 수용 및 적용",
+      "recommendedStrategies": [
+        "동료 피드백 수정 루틴"
+      ],
+      "recommendedInfoStage": "6단계(평가·성찰)",
+      "subjects": [
+        "도덕과"
+      ],
+      "subjectFrequencies": {
+        "도덕과": 1
+      }
+    },
+    "사고하기": {
+      "rank": 93,
+      "verb": "사고하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "5단계",
+      "phaseEnglish": "Generalize",
+      "phaseCharacter": "고차원적 사고 전개",
+      "recommendedStrategies": [
+        "라면 대화",
+        "PMI"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "실과/정보과"
+      ],
+      "subjectFrequencies": {
+        "실과/정보과": 1
+      }
+    },
+    "선별하기": {
+      "rank": 94,
+      "verb": "선별하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "3단계",
+      "phaseEnglish": "Investigate",
+      "phaseCharacter": "적합한 자료 선택",
+      "recommendedStrategies": [
+        "정보 장바구니",
+        "출처 추적"
+      ],
+      "recommendedInfoStage": "3단계(소재파악·접근)",
+      "subjects": [
+        "국어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1
+      }
+    },
+    "설정하기": {
+      "rank": 95,
+      "verb": "설정하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "2단계",
+      "phaseEnglish": "Focus",
+      "phaseCharacter": "목표 및 조건 설정",
+      "recommendedStrategies": [
+        "탐구 계획서",
+        "조건 설정표"
+      ],
+      "recommendedInfoStage": "2단계(탐색전략)",
+      "subjects": [
+        "수학과"
+      ],
+      "subjectFrequencies": {
+        "수학과": 1
+      }
+    },
+    "성찰하기": {
+      "rank": 96,
+      "verb": "성찰하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "7단계",
+      "phaseEnglish": "Reflect",
+      "phaseCharacter": "사고 변화 메타인지 회고",
+      "recommendedStrategies": [
+        "예전에는-지금은 루틴",
+        "배움 여정 지도"
+      ],
+      "recommendedInfoStage": "6단계(평가·성찰)",
+      "subjects": [
+        "도덕과"
+      ],
+      "subjectFrequencies": {
+        "도덕과": 1
+      }
+    },
+    "세기": {
+      "rank": 97,
+      "verb": "세기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "3단계",
+      "phaseEnglish": "Investigate",
+      "phaseCharacter": "수량 데이터 측정",
+      "recommendedStrategies": [
+        "수량 데이터 시트"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "수학과"
+      ],
+      "subjectFrequencies": {
+        "수학과": 1
+      }
+    },
+    "수용하기": {
+      "rank": 98,
+      "verb": "수용하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "7단계",
+      "phaseEnglish": "Reflect",
+      "phaseCharacter": "타인의견 및 다양성 포용",
+      "recommendedStrategies": [
+        "월드카페",
+        "공감적 경청"
+      ],
+      "recommendedInfoStage": "6단계(평가·성찰)",
+      "subjects": [
+        "국어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1
+      }
+    },
+    "예상하기": {
+      "rank": 99,
+      "verb": "예상하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "앞선 전개 가설 설정",
+      "recommendedStrategies": [
+        "KWLS",
+        "예측하며 읽기"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "수학과"
+      ],
+      "subjectFrequencies": {
+        "수학과": 1
+      }
+    },
+    "움직이기": {
+      "rank": 100,
+      "verb": "움직이기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "신체 움직임 구현",
+      "recommendedStrategies": [
+        "움직임 표현 활동"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "체육과"
+      ],
+      "subjectFrequencies": {
+        "체육과": 1
+      }
+    },
+    "융합하기": {
+      "rank": 101,
+      "verb": "융합하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "이종 영역 지식 결합",
+      "recommendedStrategies": [
+        "융합 프로젝트 보드"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "미술과"
+      ],
+      "subjectFrequencies": {
+        "미술과": 1
+      }
+    },
+    "인지하기": {
+      "rank": 102,
+      "verb": "인지하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "기본 개념 인지",
+      "recommendedStrategies": [
+        "프레이어 모델",
+        "어휘 카드"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "국어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1
+      }
+    },
+    "재미느끼기": {
+      "rank": 103,
+      "verb": "재미느끼기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "흥미 및 정서적 몰입",
+      "recommendedStrategies": [
+        "놀이 기반 탐색"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "국어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1
+      }
+    },
+    "전달하기": {
+      "rank": 104,
+      "verb": "전달하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "메시지 소통",
+      "recommendedStrategies": [
+        "핵심 한 장 카드",
+        "카드뉴스"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1
+      }
+    },
+    "전시하기": {
+      "rank": 105,
+      "verb": "전시하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "산출물 갤러리 공개",
+      "recommendedStrategies": [
+        "갤러리 워크",
+        "학급 전시회"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "바슬즐(통합)": 1
+      }
+    },
+    "접근하기": {
+      "rank": 106,
+      "verb": "접근하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "3단계",
+      "phaseEnglish": "Investigate",
+      "phaseCharacter": "정보원 소재 도달",
+      "recommendedStrategies": [
+        "도서관 DDC 서가 접근"
+      ],
+      "recommendedInfoStage": "3단계(소재파악·접근)",
+      "subjects": [
+        "국어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1
+      }
+    },
+    "제시하기": {
+      "rank": 107,
+      "verb": "제시하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "아이디어 공유 및 발제",
+      "recommendedStrategies": [
+        "핵심 한 장 카드",
+        "네모퉁이 토론"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "국어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1
+      }
+    },
+    "제안하기": {
+      "rank": 108,
+      "verb": "제안하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "6단계",
+      "phaseEnglish": "Transfer",
+      "phaseCharacter": "해결책 및 정책 건의",
+      "recommendedStrategies": [
+        "제안서 쓰기",
+        "네모퉁이 토론"
+      ],
+      "recommendedInfoStage": "5단계(종합·표현)",
+      "subjects": [
+        "도덕과"
+      ],
+      "subjectFrequencies": {
+        "도덕과": 1
+      }
+    },
+    "짐작하기": {
+      "rank": 109,
+      "verb": "짐작하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "단서 기반 상황 추측",
+      "recommendedStrategies": [
+        "문맥 단서 추론"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "국어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1
+      }
+    },
+    "집중하기": {
+      "rank": 110,
+      "verb": "집중하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "2단계",
+      "phaseEnglish": "Focus",
+      "phaseCharacter": "초점 맞추기",
+      "recommendedStrategies": [
+        "QFT",
+        "질문 초점(Q-Focus)"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "국어과"
+      ],
+      "subjectFrequencies": {
+        "국어과": 1
+      }
+    },
+    "측정하기": {
+      "rank": 111,
+      "verb": "측정하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "3단계",
+      "phaseEnglish": "Investigate",
+      "phaseCharacter": "양적 데이터 계측",
+      "recommendedStrategies": [
+        "측정 기록표"
+      ],
+      "recommendedInfoStage": "4단계(정보추출·분석)",
+      "subjects": [
+        "체육과"
+      ],
+      "subjectFrequencies": {
+        "체육과": 1
+      }
+    },
+    "협력하기": {
+      "rank": 112,
+      "verb": "협력하기",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "7단계",
+      "phaseEnglish": "Reflect",
+      "phaseCharacter": "동료와의 상호 협력",
+      "recommendedStrategies": [
+        "띵페세",
+        "월드카페"
+      ],
+      "recommendedInfoStage": "6단계(평가·성찰)",
+      "subjects": [
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "바슬즐(통합)": 1
+      }
+    },
+    "호기심갖기??": {
+      "rank": 113,
+      "verb": "호기심갖기??",
+      "subjectCount": 1,
+      "totalFrequency": 1,
+      "inquiryPhase": "1단계",
+      "phaseEnglish": "Engage",
+      "phaseCharacter": "탐구 동기 유발",
+      "recommendedStrategies": [
+        "도발적 자극",
+        "질문 그물망"
+      ],
+      "recommendedInfoStage": "1단계(과제정의)",
+      "subjects": [
+        "바슬즐(통합)"
+      ],
+      "subjectFrequencies": {
+        "바슬즐(통합)": 1
+      }
+    }
+  },
+  "subjectSkills": {
+    "국어과": [
+      "표현하기",
+      "탐색하기",
+      "활용하기",
+      "소통하기",
+      "제작하기",
+      "파악하기",
+      "문제해결하기",
+      "생각하기",
+      "참여하기",
+      "분석하기",
+      "비교하기",
+      "공유하기",
+      "확인하기",
+      "관찰하기",
+      "읽기",
+      "쓰기",
+      "점검하기",
+      "듣기",
+      "이해하기",
+      "인식하기",
+      "구성하기",
+      "사용하기",
+      "추론하기",
+      "놀이하기",
+      "선택하기",
+      "실천하기",
+      "반응하기",
+      "정리하기",
+      "생성하기",
+      "말하기",
+      "평가하기",
+      "감상하기",
+      "상상하기",
+      "소개하기",
+      "예측하기",
+      "검색하기",
+      "구별하기",
+      "질문하기",
+      "고려하기",
+      "조정하기",
+      "조직하기",
+      "요약하기",
+      "준수하기",
+      "교환하기",
+      "선별하기",
+      "수용하기",
+      "인지하기",
+      "재미느끼기",
+      "전달하기",
+      "접근하기",
+      "제시하기",
+      "짐작하기",
+      "집중하기"
+    ],
+    "도덕과": [
+      "탐색하기",
+      "설명하기",
+      "소통하기",
+      "생각하기",
+      "탐구하기",
+      "조사하기",
+      "관찰하기",
+      "점검하기",
+      "살펴보기",
+      "선택하기",
+      "찾기",
+      "계획하기",
+      "고안하기",
+      "바라보기",
+      "반영하기",
+      "성찰하기",
+      "제안하기"
+    ],
+    "사회과": [
+      "표현하기",
+      "탐색하기",
+      "활용하기",
+      "파악하기",
+      "문제해결하기",
+      "참여하기",
+      "탐구하기",
+      "조사하기",
+      "분석하기",
+      "비교하기",
+      "해석하기",
+      "확인하기",
+      "관찰하기",
+      "수집하기",
+      "구성하기",
+      "추론하기",
+      "선택하기",
+      "분류하기",
+      "찾기",
+      "생성하기",
+      "평가하기",
+      "나열하기",
+      "답사하기"
+    ],
+    "수학과": [
+      "표현하기",
+      "설명하기",
+      "제작하기",
+      "문제해결하기",
+      "탐구하기",
+      "비교하기",
+      "해석하기",
+      "읽기",
+      "쓰기",
+      "수집하기",
+      "나타내기",
+      "사용하기",
+      "추론하기",
+      "연결하기",
+      "분류하기",
+      "정리하기",
+      "추측하기",
+      "계산하기",
+      "그리기",
+      "설정하기",
+      "세기",
+      "예상하기"
+    ],
+    "과학과": [
+      "표현하기",
+      "활용하기",
+      "설명하기",
+      "소통하기",
+      "문제해결하기",
+      "조사하기",
+      "분석하기",
+      "비교하기",
+      "공유하기",
+      "적용하기",
+      "해석하기",
+      "관찰하기",
+      "수집하기",
+      "인식하기",
+      "사용하기",
+      "분류하기",
+      "정리하기",
+      "설계하기",
+      "도출하기"
+    ],
+    "실과/정보과": [
+      "탐색하기",
+      "설명하기",
+      "제작하기",
+      "파악하기",
+      "문제해결하기",
+      "참여하기",
+      "활동하기",
+      "공유하기",
+      "적용하기",
+      "확인하기",
+      "살펴보기",
+      "실천하기",
+      "설계하기",
+      "경험하기",
+      "검색하기",
+      "계획하기",
+      "형성하기",
+      "체험하기",
+      "구상하기",
+      "사고하기"
+    ],
+    "체육과": [
+      "표현하기",
+      "탐색하기",
+      "활용하기",
+      "파악하기",
+      "활동하기",
+      "적용하기",
+      "이해하기",
+      "구성하기",
+      "발표하기",
+      "시도하기",
+      "대처하기",
+      "움직이기",
+      "측정하기"
+    ],
+    "음악과": [
+      "표현하기",
+      "탐색하기",
+      "활용하기",
+      "설명하기",
+      "소통하기",
+      "제작하기",
+      "생각하기",
+      "활동하기",
+      "듣기",
+      "인식하기",
+      "나타내기",
+      "놀이하기",
+      "돌아보기",
+      "반응하기",
+      "묘사하기",
+      "바꾸기",
+      "발견하기",
+      "발표하기",
+      "구별하기",
+      "감지하기",
+      "모방하기"
+    ],
+    "미술과": [
+      "탐색하기",
+      "활용하기",
+      "설명하기",
+      "제작하기",
+      "생각하기",
+      "참여하기",
+      "분석하기",
+      "공유하기",
+      "적용하기",
+      "해석하기",
+      "나타내기",
+      "연결하기",
+      "돌아보기",
+      "반응하기",
+      "경험하기",
+      "발견하기",
+      "보기",
+      "질문하기",
+      "개선하기",
+      "관련짓기",
+      "융합하기"
+    ],
+    "영어과": [
+      "표현하기",
+      "활용하기",
+      "소통하기",
+      "파악하기",
+      "확인하기",
+      "읽기",
+      "쓰기",
+      "점검하기",
+      "듣기",
+      "이해하기",
+      "찾기",
+      "말하기",
+      "묘사하기",
+      "보기",
+      "소개하기",
+      "예측하기",
+      "추측하기",
+      "식별하기",
+      "답하기",
+      "묻기",
+      "지시하기"
+    ],
+    "바슬즐(통합)": [
+      "표현하기",
+      "탐색하기",
+      "활용하기",
+      "설명하기",
+      "소통하기",
+      "제작하기",
+      "생각하기",
+      "참여하기",
+      "탐구하기",
+      "조사하기",
+      "활동하기",
+      "살펴보기",
+      "놀이하기",
+      "실천하기",
+      "연결하기",
+      "돌아보기",
+      "감상하기",
+      "바꾸기",
+      "상상하기",
+      "형성하기",
+      "관계맺기",
+      "관리하기",
+      "구현하기",
+      "권리누리기??",
+      "대응하기",
+      "전시하기",
+      "협력하기",
+      "호기심갖기??"
+    ]
+  },
+  "strategies": [
+    {
+      "id": 1,
+      "name": "KWLS",
+      "description": "KWL에 S(Still wondering) 추가해 '아직 궁금한 것' 을 기록",
+      "linkedVerbs": [
+        "예측하기",
+        "질문하기",
+        "탐색하기"
+      ],
+      "genre": "논픽션(주장-근거)",
+      "targetGrade": "전학년",
+      "infoLiteracyStage": "1단계"
+    },
+    {
+      "id": 2,
+      "name": "SQ3R",
+      "description": "Survey-Question-Read-Recite-Review 5단계로 읽기 전·중·후 활동 구조화",
+      "linkedVerbs": [
+        "읽기",
+        "파악하기",
+        "질문하기",
+        "요약하기"
+      ],
+      "genre": "논픽션(주장-근거)",
+      "targetGrade": "고",
+      "infoLiteracyStage": "1단계"
+    },
+    {
+      "id": 3,
+      "name": "그래픽 조직자",
+      "description": "순서·비교·인과 등 정보 유형별 도표 활용",
+      "linkedVerbs": [
+        "정리하기",
+        "분류하기",
+        "조직하기",
+        "조사하기"
+      ],
+      "genre": "논픽션(원인-결과, 비교-대조)",
+      "targetGrade": "전학년",
+      "infoLiteracyStage": "1단계"
+    },
+    {
+      "id": 4,
+      "name": "벤다이어그램",
+      "description": "중첩 원으로 두 개념 공통점·차이점 시각화",
+      "linkedVerbs": [
+        "비교하기",
+        "구별하기",
+        "분류하기"
+      ],
+      "genre": "논픽션(비교-대조)",
+      "targetGrade": "전학년",
+      "infoLiteracyStage": "1단계"
+    },
+    {
+      "id": 5,
+      "name": "사슬 그리기",
+      "description": "사건의 인과를 연속 고리로 시각화",
+      "linkedVerbs": [
+        "연결하기",
+        "이해하기",
+        "파악하기"
+      ],
+      "genre": "논픽션(원인-결과)",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "1단계"
+    },
+    {
+      "id": 6,
+      "name": "생각 그물망",
+      "description": "알고 있는 개념과 새 정보를 선으로 연결해 개념 관계 시각화",
+      "linkedVerbs": [
+        "연결하기",
+        "추론하기",
+        "조직하기",
+        "조사하기"
+      ],
+      "genre": "논픽션(비교-대조, 원인-결과)",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "1단계"
+    },
+    {
+      "id": 7,
+      "name": "라면 대화",
+      "description": "‘만약~라면?’ 가정으로 사고 확장",
+      "linkedVerbs": [
+        "생각하기",
+        "추론하기",
+        "토론하기"
+      ],
+      "genre": "논픽션, 픽션",
+      "targetGrade": "전학년",
+      "infoLiteracyStage": "2단계"
+    },
+    {
+      "id": 8,
+      "name": "4칸 문제해결",
+      "description": "문제–조건–풀이–해결을 4개면에 정리",
+      "linkedVerbs": [
+        "해결하기",
+        "조직하기",
+        "설명하기"
+      ],
+      "genre": "논픽션(원인-결과)",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 9,
+      "name": "PMI",
+      "description": "Plus/Minus/Interesting 관점으로 제안 평가",
+      "linkedVerbs": [
+        "평가하기",
+        "고려하기",
+        "분석하기"
+      ],
+      "genre": "논픽션, 픽션",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 10,
+      "name": "Y차트 확장",
+      "description": "보이는/느끼는/상상하는 칸에 작성 후 아이디어 연결 및 질문 추가",
+      "linkedVerbs": [
+        "감상하기",
+        "분석하기",
+        "표현하기"
+      ],
+      "genre": "픽션, 논픽션(비교-대조)",
+      "targetGrade": "저·중",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 11,
+      "name": "네모퉁이 토론",
+      "description": "4입장 위치 선정 후 근거 토의",
+      "linkedVerbs": [
+        "비교하기",
+        "조정하기",
+        "주장하기"
+      ],
+      "genre": "논픽션, 픽션",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 12,
+      "name": "띵페세(Think-Pair-Share)",
+      "description": "개별 사고→짝 토의→전체 공유 3단계",
+      "linkedVerbs": [
+        "말하기",
+        "소통하기",
+        "공유하기"
+      ],
+      "genre": "논픽션, 픽션",
+      "targetGrade": "전학년",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 13,
+      "name": "말풍선 설명",
+      "description": "말풍선으로 설명 이어붙여 작성하거나 다른의견 제시",
+      "linkedVerbs": [
+        "표현하기",
+        "설명하기",
+        "생각하기"
+      ],
+      "genre": "픽션",
+      "targetGrade": "저·중",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 14,
+      "name": "미니북 제작",
+      "description": "A4 한 장 접어 만든 8p 소책자 제작",
+      "linkedVerbs": [
+        "제작하기",
+        "구성하기",
+        "표현하기"
+      ],
+      "genre": "논픽션, 픽션",
+      "targetGrade": "저·중",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 15,
+      "name": "브레인라이팅 (6-3-5)",
+      "description": "6명·3아이디어·5분 릴레이 작성",
+      "linkedVerbs": [
+        "생성하기",
+        "연결하기",
+        "공유하기"
+      ],
+      "genre": "논픽션, 픽션",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 16,
+      "name": "스케치 노트",
+      "description": "그림+텍스트로 핵심 정보 시각 요약",
+      "linkedVerbs": [
+        "표현하기",
+        "요약하기",
+        "정리하기",
+        "조사하기"
+      ],
+      "genre": "픽션, 논픽션(설명문)",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 17,
+      "name": "아하 대화",
+      "description": "아하!라고 답하며 설명듣기",
+      "linkedVerbs": [
+        "소통하기",
+        "조정하기",
+        "참여하기"
+      ],
+      "genre": "논픽션, 픽션",
+      "targetGrade": "전학년",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 18,
+      "name": "월드카페",
+      "description": "테이블 순환 대화로 아이디어 확산",
+      "linkedVerbs": [
+        "교환하기",
+        "조정하기",
+        "참여하기"
+      ],
+      "genre": "논픽션, 픽션",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 19,
+      "name": "의견벽",
+      "description": "포스트잇 등등으로 의견 수렴 후 분류",
+      "linkedVerbs": [
+        "공유하기",
+        "분류하기",
+        "관련짓기"
+      ],
+      "genre": "논픽션(비교-대조)",
+      "targetGrade": "전학년",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 20,
+      "name": "이야기별 그리기",
+      "description": "이야기나 관찰 내용을 읽고 이해한 후, 사건의 흐름을 재구성함",
+      "linkedVerbs": [
+        "이해하기",
+        "표현하기",
+        "추론하기",
+        "분석하기",
+        "정리하기"
+      ],
+      "genre": "픽션",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 21,
+      "name": "정보 스케치",
+      "description": "키워드·아이콘 자유 배치로 정보 구조 시각화",
+      "linkedVerbs": [
+        "표현하기",
+        "조직하기",
+        "정리하기",
+        "조사하기"
+      ],
+      "genre": "논픽션(비교-대조)",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 22,
+      "name": "정보 장바구니",
+      "description": "시각적 공간에 자료를 수집·분류",
+      "linkedVerbs": [
+        "수집하기",
+        "분류하기",
+        "선별하기"
+      ],
+      "genre": "논픽션(주장-근거)",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 23,
+      "name": "질문 그물망",
+      "description": "중심 질문에서 파생 질문을 그물 형태로 확장",
+      "linkedVerbs": [
+        "질문하기",
+        "생성하기",
+        "탐색하기"
+      ],
+      "genre": "논픽션(주장-근거)",
+      "targetGrade": "전학년",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 24,
+      "name": "질문 해부 전략",
+      "description": "누가?·왜?,어떻게? 등으로 질문 세분화[5W1H]",
+      "linkedVerbs": [
+        "질문하기",
+        "분석하기"
+      ],
+      "genre": "논픽션",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 25,
+      "name": "출처 추적",
+      "description": "정보출처를 시각화하여 정보의 신뢰성 판단",
+      "linkedVerbs": [
+        "조사하기",
+        "분석하기",
+        "정리하기",
+        "평가하기"
+      ],
+      "genre": "논픽션, 픽션",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 26,
+      "name": "토큰 대화",
+      "description": "토큰을 가지고 타인과 대화를 진행",
+      "linkedVerbs": [
+        "소통하기",
+        "공유하기",
+        "설명하기"
+      ],
+      "genre": "논픽션, 픽션",
+      "targetGrade": "전학년",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 27,
+      "name": "프레이어 모델",
+      "description": "핵심개념을 바탕으로 4개면에 정의, 속성, 해당사례, 해당하지 않는 것을 기재",
+      "linkedVerbs": [
+        "분류하기",
+        "식별하기",
+        "이해하기"
+      ],
+      "genre": "논픽션(비교-대조)",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 28,
+      "name": "프로젝트 보드",
+      "description": "단계별 과정 사진·메모를 스티커에 기록해 게시",
+      "linkedVerbs": [
+        "정리하기",
+        "계획하기",
+        "공유하기"
+      ],
+      "genre": "논픽션(설명문)",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "전 단계 공통"
+    },
+    {
+      "id": 29,
+      "name": "핵심 한 장 카드",
+      "description": "중요 개념을 카드 한 장에 요약 전시·교환",
+      "linkedVerbs": [
+        "제시하기",
+        "설명하기",
+        "전달하기"
+      ],
+      "genre": "픽션(단편), 논픽션(설명문)",
+      "targetGrade": "중·고",
+      "infoLiteracyStage": "전 단계 공통"
+    }
+  ]
+}
